@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/joseph-makinde-0a1173225">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://elvizier.netlify.app/">
+  <a href="https://adeyinka.dev/">
     <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=HTML5&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.hyperiondev.com/portfolio/126722/">
